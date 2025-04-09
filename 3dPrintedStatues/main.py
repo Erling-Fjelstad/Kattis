@@ -9,5 +9,3 @@ for i in range(2, (statues + 1) // 2 + 1):
     minimum = min(minimum, int(math.ceil(days)))
 
 print(minimum)
-
-
